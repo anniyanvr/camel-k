@@ -70,8 +70,6 @@
 - \[pull\] master from apache:master [\#186](https://github.com/anniyanvr/camel-k/pull/186) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#185](https://github.com/anniyanvr/camel-k/pull/185) ([pull[bot]](https://github.com/apps/pull))
 - \[pull\] master from apache:master [\#184](https://github.com/anniyanvr/camel-k/pull/184) ([pull[bot]](https://github.com/apps/pull))
-- \[pull\] master from apache:master [\#183](https://github.com/anniyanvr/camel-k/pull/183) ([pull[bot]](https://github.com/apps/pull))
-- \[pull\] master from apache:master [\#181](https://github.com/anniyanvr/camel-k/pull/181) ([pull[bot]](https://github.com/apps/pull))
 
 ## [1.0.0-M1](https://github.com/anniyanvr/camel-k/tree/1.0.0-M1) (2019-07-25)
 
